@@ -1,0 +1,18 @@
+
+
+// fonctions d'initialisation
+    // supprimer les doublons de la pile a
+    // mettre les valeurs dans la pile a et dans le tableau
+    // trier le tableau dans l'ordre croissant pour trouver la mediane
+
+
+fonction: is_valid_lenarg
+description: on verifie que le parametre contient maximum 
+    la taille de INT_MAX caracteres
+
+fonction: is_number
+description: on verifie si tous les caracteres forment un nombre
+
+fonction: ft_error
+    retourne un message d'erreur, retourne a la ligne et quitte le programme
+    proprement
